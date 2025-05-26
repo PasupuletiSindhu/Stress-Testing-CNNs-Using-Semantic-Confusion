@@ -80,7 +80,7 @@ Each patch is selected based on **LPIPS** and **CLIP** to ensure perceptual plau
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yakkala-pooja/Stress-Testing-CNNs-Using-Semantic-Confusion.git
+git clone https://github.com/PasupuletiSindhu/Stress-Testing-CNNs-Using-Semantic-Confusion.git
 cd Stress-Testing-CNNs-Using-Semantic-Confusion
 ```
 
@@ -150,9 +150,9 @@ If you find this project useful in your research, please consider citing:
 ```
 @misc{semanticconfusion2025,
   title={Stress-Testing CNNs Using Semantic Confusion (SC)},
-  author={Pooja Yakkala},
+  author={Sindhu Pasupuleti},
   year={2025},
-  note={https://github.com/yakkala-pooja/Stress-Testing-CNNs-Using-Semantic-Confusion},
+  note={https://github.com/PasupuletiSindhu/Stress-Testing-CNNs-Using-Semantic-Confusion},
 }
 ```
 
